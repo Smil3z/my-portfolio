@@ -10,7 +10,7 @@ function Navbar() {
 
   return (
     <div className="text-white flex justify-between items-center px-4 h-24 max-w-[1240px] mx-auto">
-      <h1 className="w-full text-3xl font-bold text-[#80c3d8]">REACT.</h1>
+      <Logo />
       <ul className="hidden md:flex">
         <li className="p-4">Home</li>
         <li className="p-4">About</li>
