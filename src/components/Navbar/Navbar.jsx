@@ -24,7 +24,7 @@ function Navbar() {
       <div
         className={
           nav
-            ? "fixed left-0 top-0 w-[60%] h-full bg-black ease-in-out duration-500"
+            ? "fixed left-0 top-0 w-[30%] h-md bg-black ease-in-out duration-500"
             : "fixed left-[-100%]"
         }
       >
