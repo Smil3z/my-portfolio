@@ -6,7 +6,7 @@ function Hero() {
       <div className="overlay">
         <div className="content">
           <h1> Welcome </h1>
-          <p> To My Site!</p>
+          <p> To My Portfolio!</p>
         </div>
       </div>
     </div>

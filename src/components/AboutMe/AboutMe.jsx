@@ -9,9 +9,7 @@ function AboutMe() {
     if (typedRef.current) {
       const options = {
         strings: [
-          "Hello everyone and welcome to my portfolio, my name is Stephon and I am a motivated Full Stack Engineer proficient in HTML, CSS, and JavaScript programming languages.",
-          "My background is in Web Development and Agile Methodologies.",
-          "I provide a high level of service to clients in custom development for applications and website proprietary customizations.",
+          "Hello everyone and welcome to my portfolio, my name is Stephon and I am a motivated Full Stack Engineer proficient in HTML, CSS, and JavaScript programming languages. My background is in Web Development and Agile Methodologies. I provide a high level of service to clients in custom development for applications and website proprietary customizations.",
         ],
         typeSpeed: 20,
       };
